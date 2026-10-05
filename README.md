@@ -1,23 +1,43 @@
 # 🌾 Advanced Crop Recommendation System
-Built by OBILIPAPANNAGARI SATHWIK REDDY
 
-This project predicts the most suitable crop based on soil nutrients and climate using advanced machine learning techniques.
+A machine learning application that predicts a suitable crop based on soil nutrients and climate conditions.
 
-## 👨‍💻 Technologies Used
-- Python, Pandas, Scikit-learn
-- Streamlit (for UI)
-- Random Forest, Decision Tree
+## ✨ Features
 
-## 🚀 Deployment
-This app is deployed on Streamlit Cloud. [Deployment link will go here]
+- Crop recommendation from environmental and soil features
+- Machine learning models including Random Forest and Decision Tree
+- Interactive Streamlit interface
 
-## 🌐 Deployment
-Visit the live app here: [Streamlit App](https://sathwik797-advanced-crop-recommendation-ml.streamlit.app)
+## 🛠️ Tech Stack
 
-## 📂 GitHub Repository
-To view or contribute, visit the GitHub repo:  
-https://github.com/Sathwik797/advanced-crop-recommendation-ml
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+- Random Forest
+- Decision Tree
 
----
+## 🌐 Live Demo
 
-⭐ Built with ❤️ by OBILIPAPANNAGARI SATHWIK REDDY
+[Open the Streamlit app](https://sathwik797-advanced-crop-recommendation-ml.streamlit.app)
+
+## 🚀 Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sathwik797/advanced-crop-recommendation-ml.git
+cd advanced-crop-recommendation-ml
+```
+
+Install the project dependencies and start the Streamlit application using the instructions/files included in the repository.
+
+## 📌 Project Focus
+
+This project demonstrates how machine learning can be applied to agricultural decision support using soil and climate data.
+
+## 👨‍💻 Author
+
+**Sathwik Reddy**
+
+GitHub: https://github.com/Sathwik797
